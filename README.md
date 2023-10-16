@@ -1,16 +1,16 @@
 # Artificial-Intelligence
 This repository contains my Artificial Intelligence course projects.
 
-* CA0: Introduction to NumPy and Pandas Libraries
+* numpy_vectorization: Introduction to NumPy and Pandas Libraries
 
-* CA1: Implementation of Search Algorithms (BFS, IDS, A*)
+* searching_algoritms: Implementation of Search Algorithms (BFS, IDS, A*)
 
-* CA2: Implementation of Genetic Algorithm
+* genetic_algorithm: Implementation of Genetic Algorithm
 
-* CA3: Naive Bayes Classifier
+* naiveByes: Naive Bayes Classifier
 
-* CA4: Introduction to KNN, Random Forest, Decision Tree and Voting Regression Models
+* house_price_prediction: Introduction to KNN, Random Forest, Decision Tree and Voting Regression Models
 
-* CA5: Implementation of a FeedForward Neural Network
+* FeedForward_implementation: Implementation of a FeedForward Neural Network
 
-* CA6: Introduction to Keras Library
+* covid_prediction: Introduction to Keras Library
